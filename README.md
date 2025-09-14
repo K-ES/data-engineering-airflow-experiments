@@ -1,6 +1,7 @@
 # Airflow Learning Log 📝
 
 14.09.2025
+---
 
 - Installed **Python 3.11** on WSL (Ubuntu).  
 - Created a virtual environment `venv` in `~/airflow`.  
