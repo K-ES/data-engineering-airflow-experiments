@@ -22,3 +22,4 @@
 - Зашёл в интерфейс Airflow по адресу [http://localhost:8080](http://localhost:8080).  
 
 ✅ Airflow работает локально в WSL.  
+---
