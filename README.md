@@ -1,8 +1,7 @@
 # Airflow Learning Log 📝
 
-## English (14.09.2025)
+14.09.2025
 
-### Day 1 🚀
 - Installed **Python 3.11** on WSL (Ubuntu).  
 - Created a virtual environment `venv` in `~/airflow`.  
 - Installed **Apache Airflow 2.9.3** with pip.  
@@ -12,12 +11,8 @@
 - Logged into the Airflow UI at [http://localhost:8080](http://localhost:8080).  
 
 ✅ Airflow is running locally on WSL.  
-
 ---
 
-## Русский (14.09.2025)
-
-### День 1 🚀
 - Установил **Python 3.11** в WSL (Ubuntu).  
 - Создал виртуальное окружение `venv` в `~/airflow`.  
 - Установил **Apache Airflow 2.9.3** через pip.  
