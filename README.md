@@ -12,6 +12,8 @@
 - Learned that Airflow reads DAGs only from ~/airflow/dags.
 - Prepared the solution to expose the project to Airflow using a symbolic link.
 
+✅ Set up the PyCharm → WSL → Airflow workflow, fixed import issues, launched webserver and scheduler, inspected the metadata DB, and learned how to expose the project via a symbolic link.
+---
 
 - Настроил PyCharm на использование WSL-интерпретатора Python из ~/airflow/venv/bin/python.
 - Исчезли ошибки импорта Airflow в редакторе.
@@ -20,6 +22,9 @@
 - Убедился, что SequentialExecutor — это норма при работе с SQLite.
 - Разобрался, что Airflow читает DAG-и только из ~/airflow/dags.
 - Подготовил решение — создать симлинк, чтобы Airflow видел проект из рабочей директории.
+
+✅ Настроил связку PyCharm → WSL → Airflow, избавился от ошибок импорта, запустил webserver и scheduler, проверил базу и понял, как правильно подключать проект через симлинк.
+---
 
 14.09.2025
 ---
