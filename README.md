@@ -12,6 +12,7 @@
 - Learned that Airflow reads DAGs only from ~/airflow/dags.
 - Prepared the solution to expose the project to Airflow using a symbolic link.
 
+
 - Настроил PyCharm на использование WSL-интерпретатора Python из ~/airflow/venv/bin/python.
 - Исчезли ошибки импорта Airflow в редакторе.
 - Запустил webserver и scheduler внутри WSL.
